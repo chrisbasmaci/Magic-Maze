@@ -1,0 +1,200 @@
+[
+    {
+        "type": "Group",
+        "name": "NEW_CLASSES",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "G9JEA2nuVcBCNmMk"
+    },
+    {
+        "type": "Group",
+        "name": "ROOM",
+        "parent_id": "G9JEA2nuVcBCNmMk",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "2lAMHb1m0q9Vv875"
+    },
+    {
+        "type": "Group",
+        "name": "TILE",
+        "parent_id": "G9JEA2nuVcBCNmMk",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "KqQAWEM0wNaph35z"
+    },
+    {
+        "type": "Group",
+        "name": "CHARACTER",
+        "parent_id": "G9JEA2nuVcBCNmMk",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "XAUc0qw27Cpsyid3"
+    },
+    {
+        "type": "Group",
+        "name": "BASIC",
+        "parent_id": "KqQAWEM0wNaph35z",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "DfZAWBg6Pl34mVd0"
+    },
+    {
+        "type": "Group",
+        "name": "MAGIC",
+        "parent_id": "KqQAWEM0wNaph35z",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "6HvnZbKQfFuXxloY"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\chris\\Desktop\\oop1ss22-a2-team-Team_DE-19\\Room_Class.cpp",
+        "parent_id": "2lAMHb1m0q9Vv875",
+        "fsPath": "c:\\Users\\chris\\Desktop\\oop1ss22-a2-team-Team_DE-19\\Room_Class.cpp",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "WE9DRJxSULdBp3hQ"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\chris\\Desktop\\oop1ss22-a2-team-Team_DE-19\\Room_Class.hpp",
+        "parent_id": "2lAMHb1m0q9Vv875",
+        "fsPath": "c:\\Users\\chris\\Desktop\\oop1ss22-a2-team-Team_DE-19\\Room_Class.hpp",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "xEjOCH6SkWyzuXD9"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\chris\\Desktop\\oop1ss22-a2-team-Team_DE-19\\Tile_Class.cpp",
+        "parent_id": "KqQAWEM0wNaph35z",
+        "fsPath": "c:\\Users\\chris\\Desktop\\oop1ss22-a2-team-Team_DE-19\\Tile_Class.cpp",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "vJftzFw3MEVObLqI"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\chris\\Desktop\\oop1ss22-a2-team-Team_DE-19\\Tile_Class.hpp",
+        "parent_id": "KqQAWEM0wNaph35z",
+        "fsPath": "c:\\Users\\chris\\Desktop\\oop1ss22-a2-team-Team_DE-19\\Tile_Class.hpp",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "IZm8VLXJhwWU4Bpj"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\chris\\Desktop\\oop1ss22-a2-team-Team_DE-19\\Character_Class.cpp",
+        "parent_id": "XAUc0qw27Cpsyid3",
+        "fsPath": "c:\\Users\\chris\\Desktop\\oop1ss22-a2-team-Team_DE-19\\Character_Class.cpp",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "GSmbUTk8a4EgA6fJ"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\chris\\Desktop\\oop1ss22-a2-team-Team_DE-19\\Character_Class.hpp",
+        "parent_id": "XAUc0qw27Cpsyid3",
+        "fsPath": "c:\\Users\\chris\\Desktop\\oop1ss22-a2-team-Team_DE-19\\Character_Class.hpp",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "56krH7T3YQhBM20L"
+    },
+    {
+        "type": "Group",
+        "name": "GAME",
+        "parent_id": "G9JEA2nuVcBCNmMk",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "4LpVcGDNi8XCmkzj"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\chris\\Desktop\\oop1ss22-a2-team-Team_DE-19\\Magic_Tile_Sub.hpp",
+        "parent_id": "6HvnZbKQfFuXxloY",
+        "fsPath": "c:\\Users\\chris\\Desktop\\oop1ss22-a2-team-Team_DE-19\\Magic_Tile_Sub.hpp",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "HyYIjsU2FTG7kQtO"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\chris\\Desktop\\oop1ss22-a2-team-Team_DE-19\\Magic_Tile_Sub.cpp",
+        "parent_id": "6HvnZbKQfFuXxloY",
+        "fsPath": "c:\\Users\\chris\\Desktop\\oop1ss22-a2-team-Team_DE-19\\Magic_Tile_Sub.cpp",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "lQz2LR4r3PytfcGD"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\chris\\Desktop\\oop1ss22-a2-team-Team_DE-19\\Basic_Tile_Sub.hpp",
+        "parent_id": "DfZAWBg6Pl34mVd0",
+        "fsPath": "c:\\Users\\chris\\Desktop\\oop1ss22-a2-team-Team_DE-19\\Basic_Tile_Sub.hpp",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "4QP1SmJ2osftVxeT"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\chris\\Desktop\\oop1ss22-a2-team-Team_DE-19\\Basic_Tile_Sub.cpp",
+        "parent_id": "DfZAWBg6Pl34mVd0",
+        "fsPath": "c:\\Users\\chris\\Desktop\\oop1ss22-a2-team-Team_DE-19\\Basic_Tile_Sub.cpp",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "odPSQn6HlBDayOw9"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\chris\\Desktop\\oop1ss22-a2-team-Team_DE-19\\Game_Class.cpp",
+        "parent_id": "4LpVcGDNi8XCmkzj",
+        "fsPath": "c:\\Users\\chris\\Desktop\\oop1ss22-a2-team-Team_DE-19\\Game_Class.cpp",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "Jy8LlWHTjUnKzS3v"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\chris\\Desktop\\oop1ss22-a2-team-Team_DE-19\\Game_Class.hpp",
+        "parent_id": "4LpVcGDNi8XCmkzj",
+        "fsPath": "c:\\Users\\chris\\Desktop\\oop1ss22-a2-team-Team_DE-19\\Game_Class.hpp",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "QURCyaI9TbVukHq6"
+    },
+    {
+        "type": "Group",
+        "name": "Factories",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "onVZOjhYvuBqKCrN"
+    },
+    {
+        "type": "Group",
+        "name": "FieldFactory",
+        "parent_id": "onVZOjhYvuBqKCrN",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "Rhnt1BSkDZ5fcLij"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\chris\\Desktop\\oop1ss22-a2-team-Team_DE-19\\FieldFactory.cpp",
+        "parent_id": "Rhnt1BSkDZ5fcLij",
+        "fsPath": "c:\\Users\\chris\\Desktop\\oop1ss22-a2-team-Team_DE-19\\FieldFactory.cpp",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "m4jLwBrP6q5XAMOU"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\chris\\Desktop\\oop1ss22-a2-team-Team_DE-19\\FieldFactory.hpp",
+        "parent_id": "Rhnt1BSkDZ5fcLij",
+        "fsPath": "c:\\Users\\chris\\Desktop\\oop1ss22-a2-team-Team_DE-19\\FieldFactory.hpp",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "P3efmk1lyCBdHTQ7"
+    }
+]
